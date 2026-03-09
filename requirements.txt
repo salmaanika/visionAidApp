@@ -1,0 +1,14 @@
+flask
+flask-cors
+uvicorn
+torch
+torchvision
+pillow
+opencv-python-headless
+python-multipart
+numpy
+ultralytics
+streamlit
+gTTS
+pandas
+streamlit-webrtc

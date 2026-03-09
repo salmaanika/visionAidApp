@@ -1,13 +1,10 @@
-flask
-flask-cors
-uvicorn
+ultralytics
+streamlit
 torch
 torchvision
 pillow
 opencv-python-headless
 python-multipart
 numpy
-ultralytics
-streamlit
 gTTS
 streamlit-webrtc

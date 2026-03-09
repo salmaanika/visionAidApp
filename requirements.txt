@@ -10,5 +10,4 @@ numpy
 ultralytics
 streamlit
 gTTS
-pandas
 streamlit-webrtc

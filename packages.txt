@@ -1,1 +1,3 @@
 libgl1
+libpthread-stubs0-dev
+libglib2.0-0

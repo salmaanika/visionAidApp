@@ -1,0 +1,20 @@
+# python
+
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.DS_Store
+*.ptl
+results/
+uploads/
+
+# Flutter build outputs
+flutter/build/
+flutter/.dart_tool/
+flutter/.flutter-plugins
+flutter/.flutter-plugins-dependencies
+
+# OS
+.DS_Store
